@@ -1,0 +1,30 @@
+{
+  "schema": "project-build-layout.v1",
+  "project": "AuthLogReview",
+  "author": "dhtfish98",
+  "kind": "manual",
+  "base_public_commit": "7ad0e361a28bf8453c9fdb08a58f4d23a32b28c5",
+  "restored_inputs": [
+    {
+      "original": "LICENSE",
+      "stored": "项目文档/LICENSE",
+      "sha256": "61cc81f0067016c9425160ac683a0791c1f9332a48ffe655d21b2602286e21be"
+    },
+    {
+      "original": "ORIGIN.md",
+      "stored": "项目文档/ORIGIN.md",
+      "sha256": "c22f218e5352848be2dbef93381848d41387ec88e0b310fb3dfdf1500b55f050"
+    },
+    {
+      "original": "README.md",
+      "stored": "项目文档/README.md",
+      "sha256": "21173f56a50b371c8e235c8ca218f0ecdbc769446476ba554861dcd30edc6e0e"
+    },
+    {
+      "original": "VALIDATION.md",
+      "stored": "项目文档/VALIDATION.md",
+      "sha256": "b73b99e6f05d2db6c81af87963e22a4558d12f50d9fc3f8764850814853c131b"
+    }
+  ],
+  "platform_entries": []
+}
